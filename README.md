@@ -59,3 +59,5 @@ int rotacionDerechaDeAParaObtenerB(int[] a, int[] b)
 
 boolean mismosElementosComoMulticonjunto(int[] a, int[] b)
 // Retorna true si a y b tienen las mismas frecuencias de cada número (sin ordenar).
+
+//Nataly Angarita Rueda - 192650
